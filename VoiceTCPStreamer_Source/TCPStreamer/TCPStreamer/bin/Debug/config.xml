@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IpAddressClient />
+  <IPAddressServer />
+  <PortClient>0</PortClient>
+  <PortServer>0</PortServer>
+  <SoundInputDeviceNameClient>데스크톱 마이크(Microsoft® LifeCam HD-</SoundInputDeviceNameClient>
+  <SoundOutputDeviceNameClient>None</SoundOutputDeviceNameClient>
+  <SoundInputDeviceNameServer>데스크톱 마이크(Microsoft® LifeCam HD-</SoundInputDeviceNameServer>
+  <SoundOutputDeviceNameServer>Speaker / Headphone(Realtek(R) </SoundOutputDeviceNameServer>
+  <SamplesPerSecondClient>8000</SamplesPerSecondClient>
+  <BitsPerSampleClient>16</BitsPerSampleClient>
+  <ChannelsClient>1</ChannelsClient>
+  <SamplesPerSecondServer>8000</SamplesPerSecondServer>
+  <BitsPerSampleServer>16</BitsPerSampleServer>
+  <ChannelsServer>1</ChannelsServer>
+  <UseJitterBufferClientRecording>true</UseJitterBufferClientRecording>
+  <UseJitterBufferServerRecording>true</UseJitterBufferServerRecording>
+  <JitterBufferCountServer>20</JitterBufferCountServer>
+  <JitterBufferCountClient>20</JitterBufferCountClient>
+  <FileName />
+  <LoopFile>false</LoopFile>
+  <MuteClientPlaying>false</MuteClientPlaying>
+  <ServerNoSpeakAll>false</ServerNoSpeakAll>
+  <ClientNoSpeakAll>false</ClientNoSpeakAll>
+  <MuteServerListen>false</MuteServerListen>
+</Configuration>

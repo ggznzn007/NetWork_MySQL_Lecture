@@ -1,0 +1,6 @@
+D:\Share\NetworkLecture\CSharp_NetworkServer_Customizing_Source\VoiceTCPStreamer_Source\WinSound\WinSound\bin\Debug\WinSound.dll
+D:\Share\NetworkLecture\CSharp_NetworkServer_Customizing_Source\VoiceTCPStreamer_Source\WinSound\WinSound\bin\Debug\WinSound.pdb
+D:\Share\NetworkLecture\CSharp_NetworkServer_Customizing_Source\VoiceTCPStreamer_Source\WinSound\WinSound\obj\Debug\WinSound.csprojAssemblyReference.cache
+D:\Share\NetworkLecture\CSharp_NetworkServer_Customizing_Source\VoiceTCPStreamer_Source\WinSound\WinSound\obj\Debug\WinSound.csproj.CoreCompileInputs.cache
+D:\Share\NetworkLecture\CSharp_NetworkServer_Customizing_Source\VoiceTCPStreamer_Source\WinSound\WinSound\obj\Debug\WinSound.dll
+D:\Share\NetworkLecture\CSharp_NetworkServer_Customizing_Source\VoiceTCPStreamer_Source\WinSound\WinSound\obj\Debug\WinSound.pdb

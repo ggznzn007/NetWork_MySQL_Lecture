@@ -1,0 +1,5 @@
+D:\Share\NetworkLecture\CSharp_NetworkServer_Customizing_Source\VoiceTCPStreamer_Source\TCPClient\TCPClient\bin\Debug\TCPClient.dll
+D:\Share\NetworkLecture\CSharp_NetworkServer_Customizing_Source\VoiceTCPStreamer_Source\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+D:\Share\NetworkLecture\CSharp_NetworkServer_Customizing_Source\VoiceTCPStreamer_Source\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\Share\NetworkLecture\CSharp_NetworkServer_Customizing_Source\VoiceTCPStreamer_Source\TCPClient\TCPClient\obj\Debug\TCPClient.dll
+D:\Share\NetworkLecture\CSharp_NetworkServer_Customizing_Source\VoiceTCPStreamer_Source\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
