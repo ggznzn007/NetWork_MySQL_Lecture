@@ -1,0 +1,13 @@
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_NumBaseball\bin\Debug\netcoreapp3.1\_NumBaseball.exe
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_NumBaseball\bin\Debug\netcoreapp3.1\_NumBaseball.deps.json
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_NumBaseball\bin\Debug\netcoreapp3.1\_NumBaseball.runtimeconfig.json
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_NumBaseball\bin\Debug\netcoreapp3.1\_NumBaseball.runtimeconfig.dev.json
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_NumBaseball\bin\Debug\netcoreapp3.1\_NumBaseball.dll
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_NumBaseball\bin\Debug\netcoreapp3.1\_NumBaseball.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_NumBaseball\obj\Debug\netcoreapp3.1\_NumBaseball.csprojAssemblyReference.cache
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_NumBaseball\obj\Debug\netcoreapp3.1\_NumBaseball.AssemblyInfoInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_NumBaseball\obj\Debug\netcoreapp3.1\_NumBaseball.AssemblyInfo.cs
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_NumBaseball\obj\Debug\netcoreapp3.1\_NumBaseball.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_NumBaseball\obj\Debug\netcoreapp3.1\_NumBaseball.dll
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_NumBaseball\obj\Debug\netcoreapp3.1\_NumBaseball.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_NumBaseball\obj\Debug\netcoreapp3.1\_NumBaseball.genruntimeconfig.cache

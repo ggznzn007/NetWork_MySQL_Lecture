@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeNet", "FreeNet\FreeNet.csproj", "{90786D2B-F7A9-4A90-A073-838EF232BA6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSampleServer", "CSampleServer\CSampleServer.csproj", "{C1F5AA4B-069D-4E63-BBFC-5FCEDD182C6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSampleClient", "CSampleClient\CSampleClient.csproj", "{3ECD16DA-BD8E-44D3-B7A1-E9F687B9B84E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirusWarGameServer", "VirusWarGameServer\VirusWarGameServer.csproj", "{341BA7A5-4942-48F4-885C-D186EA81BC92}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiChatServer", "MultiChatServer\MultiChatServer.csproj", "{62F3D1B8-51C2-4F96-B413-8175B729D720}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiRotMovServer", "MultiRotMovServer\MultiRotMovServer.csproj", "{CDF5587B-61D0-4D5A-A5FA-465433B353E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiRunClient", "MultiRunClient\MultiRunClient.csproj", "{91B04E1D-5E5D-4F5A-A351-C23379986086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90786D2B-F7A9-4A90-A073-838EF232BA6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90786D2B-F7A9-4A90-A073-838EF232BA6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90786D2B-F7A9-4A90-A073-838EF232BA6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90786D2B-F7A9-4A90-A073-838EF232BA6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F5AA4B-069D-4E63-BBFC-5FCEDD182C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F5AA4B-069D-4E63-BBFC-5FCEDD182C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F5AA4B-069D-4E63-BBFC-5FCEDD182C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F5AA4B-069D-4E63-BBFC-5FCEDD182C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ECD16DA-BD8E-44D3-B7A1-E9F687B9B84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECD16DA-BD8E-44D3-B7A1-E9F687B9B84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECD16DA-BD8E-44D3-B7A1-E9F687B9B84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECD16DA-BD8E-44D3-B7A1-E9F687B9B84E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{341BA7A5-4942-48F4-885C-D186EA81BC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341BA7A5-4942-48F4-885C-D186EA81BC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341BA7A5-4942-48F4-885C-D186EA81BC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341BA7A5-4942-48F4-885C-D186EA81BC92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62F3D1B8-51C2-4F96-B413-8175B729D720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62F3D1B8-51C2-4F96-B413-8175B729D720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62F3D1B8-51C2-4F96-B413-8175B729D720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62F3D1B8-51C2-4F96-B413-8175B729D720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDF5587B-61D0-4D5A-A5FA-465433B353E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF5587B-61D0-4D5A-A5FA-465433B353E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF5587B-61D0-4D5A-A5FA-465433B353E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF5587B-61D0-4D5A-A5FA-465433B353E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91B04E1D-5E5D-4F5A-A351-C23379986086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B04E1D-5E5D-4F5A-A351-C23379986086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B04E1D-5E5D-4F5A-A351-C23379986086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B04E1D-5E5D-4F5A-A351-C23379986086}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA244EAA-FEEE-4CCB-A26A-AD881C0B086A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\BitcampARVR(정푸른)\C#\_2020_08_05\SQLProvider\bin\Debug\_02_SQLProvider.exe.config
+D:\BitcampARVR(정푸른)\C#\_2020_08_05\SQLProvider\bin\Debug\_02_SQLProvider.exe
+D:\BitcampARVR(정푸른)\C#\_2020_08_05\SQLProvider\bin\Debug\_02_SQLProvider.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_08_05\SQLProvider\obj\x86\Debug\SQLProvider.csprojAssemblyReference.cache
+D:\BitcampARVR(정푸른)\C#\_2020_08_05\SQLProvider\obj\x86\Debug\_02_SQLProvider.Form1.resources
+D:\BitcampARVR(정푸른)\C#\_2020_08_05\SQLProvider\obj\x86\Debug\_02_SQLProvider.Properties.Resources.resources
+D:\BitcampARVR(정푸른)\C#\_2020_08_05\SQLProvider\obj\x86\Debug\SQLProvider.csproj.GenerateResource.cache
+D:\BitcampARVR(정푸른)\C#\_2020_08_05\SQLProvider\obj\x86\Debug\SQLProvider.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_08_05\SQLProvider\obj\x86\Debug\_02_SQLProvider.exe
+D:\BitcampARVR(정푸른)\C#\_2020_08_05\SQLProvider\obj\x86\Debug\_02_SQLProvider.pdb

@@ -1,0 +1,9 @@
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_70_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_70_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_70_NetworkStreamClientForm\obj\Debug\_70_NetworkStreamClientForm.csprojAssemblyReference.cache
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_70_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form1.resources
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_70_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Properties.Resources.resources
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_70_NetworkStreamClientForm\obj\Debug\_70_NetworkStreamClientForm.csproj.GenerateResource.cache
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_70_NetworkStreamClientForm\obj\Debug\_70_NetworkStreamClientForm.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_70_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.exe
+D:\BitcampARVR(정푸른)\C#\_2020_08_03\_2020_08_03_NetWork\_70_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.pdb

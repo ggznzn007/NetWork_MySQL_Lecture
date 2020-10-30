@@ -1,0 +1,9 @@
+D:\Share\NowShare\NetworkLecture\TCPNetwork\FreeNet_server_sourcecode\MultiRunClient\bin\Debug\MultiRunClient.exe.config
+D:\Share\NowShare\NetworkLecture\TCPNetwork\FreeNet_server_sourcecode\MultiRunClient\bin\Debug\MultiRunClient.exe
+D:\Share\NowShare\NetworkLecture\TCPNetwork\FreeNet_server_sourcecode\MultiRunClient\bin\Debug\MultiRunClient.pdb
+D:\Share\NowShare\NetworkLecture\TCPNetwork\FreeNet_server_sourcecode\MultiRunClient\obj\Debug\MultiRunClient.Form1.resources
+D:\Share\NowShare\NetworkLecture\TCPNetwork\FreeNet_server_sourcecode\MultiRunClient\obj\Debug\MultiRunClient.Properties.Resources.resources
+D:\Share\NowShare\NetworkLecture\TCPNetwork\FreeNet_server_sourcecode\MultiRunClient\obj\Debug\MultiRunClient.csproj.GenerateResource.cache
+D:\Share\NowShare\NetworkLecture\TCPNetwork\FreeNet_server_sourcecode\MultiRunClient\obj\Debug\MultiRunClient.csproj.CoreCompileInputs.cache
+D:\Share\NowShare\NetworkLecture\TCPNetwork\FreeNet_server_sourcecode\MultiRunClient\obj\Debug\MultiRunClient.exe
+D:\Share\NowShare\NetworkLecture\TCPNetwork\FreeNet_server_sourcecode\MultiRunClient\obj\Debug\MultiRunClient.pdb
